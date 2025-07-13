@@ -62,5 +62,4 @@ Failure paths are critical to test:
 ## Recommendations for Backend
 
 - Enforce unique ISBNs to prevent duplicate entries.
-- Add status codes like 409 Conflict for more specific failure feedback.
 - Improve schema validation for PUT/POST (required fields, types).
